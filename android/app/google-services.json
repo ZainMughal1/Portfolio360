@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544343911164",
+    "project_id": "portfolio360-66824",
+    "storage_bucket": "portfolio360-66824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544343911164:android:3ba8074b81346615fa8579",
+        "android_client_info": {
+          "package_name": "com.example.portfolio360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544343911164-t7snodgs6dr7d39tk1cem6tdsr17ek7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portfolio360",
+            "certificate_hash": "57351cbe541c4fcacbe3f856eaaaace34f44be49"
+          }
+        },
+        {
+          "client_id": "544343911164-vqv3j6eq9bp3e2igdvkidqpafuupve1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3A44IDRKOi2WOyfcpwtuyRg0yG8gN-OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544343911164-vqv3j6eq9bp3e2igdvkidqpafuupve1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
