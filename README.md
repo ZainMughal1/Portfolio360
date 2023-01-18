@@ -11,4 +11,4 @@ A new Flutter project.
 
 https://github.com/ZainMughal1/Portfolio360
 
-![alt text](https://github.com/ZainMughal1/Portfolio360/1.jpeg)
+![alt text](https://github.com/ZainMughal1/Portfolio360/blob/main/1.jpeg)
